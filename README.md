@@ -1,1 +1,1 @@
-# vendor_xiaomi_surya-miuicamera
+# vendor_xiaomi_sm6225-common-miuicamera
